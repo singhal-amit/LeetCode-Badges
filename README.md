@@ -78,7 +78,7 @@
   </tr>
 </table>
 
-## 🏅 Daily Medals 🏅
+## Daily Medals
 
 <table>
   <tr>
@@ -213,3 +213,58 @@
     <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-12.gif" width="100" title="Submit code daily in December 2025"></td>
   </tr>
 </table>
+
+## Study Plan Medals
+
+<table>
+  <tr>
+    <th colspan="5" align="center">Earnable</th>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="https://leetcode.com/studyplan/introduction-to-pandas/"><img src="Badges/Study-Plan-Medals/GIF/Introduction to Pandas.gif" width="100" title="Complete the 'Introduction to Pandas' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/30-days-of-javascript/"><img src="Badges/Study-Plan-Medals/GIF/30 Days of JavaScript.gif" width="100" title="Complete '30 Days of JavaScript' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/30-days-of-pandas/"><img src="Badges/Study-Plan-Medals/GIF/30 Days of Pandas.gif" width="100" title="Complete the '30 Days of Pandas' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/top-sql-50/"><img src="Badges/Study-Plan-Medals/GIF/Top SQL 50.gif" width="100" title="Complete the 'Top SQL 50' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/premium-sql-50/"><img src="Badges/Study-Plan-Medals/GIF/Advanced SQL 50.gif" width="100" title="Complete the 'Premium SQL 50' study plan"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Introduction to Pandas</td>
+    <td align="center">30 Days of JavaScript</td>
+    <td align="center">30 Days of Pandas</td>
+    <td align="center">Top SQL 50</td>
+    <td align="center">Premium SQL 50</td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="https://leetcode.com/studyplan/programming-skills/"><img src="Badges/Study-Plan-Medals/GIF/Programming Skills.gif" width="100" title="Complete the 'Programming Skills' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/binary-search/"><img src="Badges/Study-Plan-Medals/GIF/Binary Search.gif" width="100" title="Complete the 'Binary Search' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/dynamic-programming/"><img src="Badges/Study-Plan-Medals/GIF/Dynamic Programming.gif" width="100" title="Complete the 'Dynamic Programming' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/dynamic-programming-grandmaster/"><img src="Badges/Study-Plan-Medals/GIF/Dynamic Programming Grandmaster.gif" width="100" title="Complete the 'Dynamic Programming Grandmaster' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/graph-theory/"><img src="Badges/Study-Plan-Medals/GIF/Graph Theory.gif" width="100" title="Complete the 'Graph Theory' study plan"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Programming Skills</td>
+    <td align="center">Binary Search</td>
+    <td align="center">Dynamic Programming</td>
+    <td align="center">DP Grandmaster</td>
+    <td align="center">Graph Theory</td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="https://leetcode.com/studyplan/premium-algo-100/"><img src="Badges/Study-Plan-Medals/GIF/Premium Algo 100.gif" width="100" title="Complete the 'Premium Algo 100' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/leetcode-75/"><img src="Badges/Study-Plan-Medals/GIF/LeetCode 75.gif" width="100" title="Complete the 'LeetCode 75' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/top-interview-150/"><img src="Badges/Study-Plan-Medals/GIF/Top Interview 150.gif" width="100" title="Complete the 'Top Interview 150' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/top-100-liked/"><img src="Badges/Study-Plan-Medals/GIF/Top 100 Liked.gif" width="100" title="Complete the 'Top 100 Liked' study plan"></a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">Premium Algo 100</td>
+    <td align="center">LeetCode 75</td>
+    <td align="center">Top Interview 150</td>
+    <td align="center">Top 100 Liked</td>
+    <td></td>
+  </tr>
+
+</table>
+
