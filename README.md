@@ -85,99 +85,99 @@
     <th colspan="5" align="center">January</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-1.png" width="100" title="Submit code daily in January 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-1.png" width="100" title="Submit code daily in January 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-1.png" width="100" title="Submit code daily in January 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-1.png" width="100" title="Submit code daily in January 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-1.png" width="100" title="Submit code daily in January 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-01.png" width="100" title="Submit code daily in January 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-01.png" width="100" title="Submit code daily in January 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-01.png" width="100" title="Submit code daily in January 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-01.png" width="100" title="Submit code daily in January 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-01.png" width="100" title="Submit code daily in January 2025"></td>
   </tr>
 
   <tr>
     <th colspan="5" align="center">February</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-2.png" width="100" title="Submit code daily in February 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-2.png" width="100" title="Submit code daily in February 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-2.png" width="100" title="Submit code daily in February 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-2.png" width="100" title="Submit code daily in February 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-02.gif" width="100" title="Submit code daily in February 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-02.png" width="100" title="Submit code daily in February 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-02.png" width="100" title="Submit code daily in February 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-02.png" width="100" title="Submit code daily in February 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-02.png" width="100" title="Submit code daily in February 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-02.png" width="100" title="Submit code daily in February 2025"></td>
   </tr>
 
   <tr>
     <th colspan="5" align="center">March</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-3.png" width="100" title="Submit code daily in March 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-3.png" width="100" title="Submit code daily in March 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-3.png" width="100" title="Submit code daily in March 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-3.png" width="100" title="Submit code daily in March 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-03.gif" width="100" title="Submit code daily in March 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-03.png" width="100" title="Submit code daily in March 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-03.png" width="100" title="Submit code daily in March 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-03.png" width="100" title="Submit code daily in March 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-03.png" width="100" title="Submit code daily in March 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-03.png" width="100" title="Submit code daily in March 2025"></td>
   </tr>
 
   <tr>
     <th colspan="5" align="center">April</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-4.png" width="100" title="Submit code daily in April 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-4.png" width="100" title="Submit code daily in April 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-4.png" width="100" title="Submit code daily in April 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-4.png" width="100" title="Submit code daily in April 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-04.gif" width="100" title="Submit code daily in April 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-04.png" width="100" title="Submit code daily in April 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-04.png" width="100" title="Submit code daily in April 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-04.png" width="100" title="Submit code daily in April 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-04.png" width="100" title="Submit code daily in April 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-04.png" width="100" title="Submit code daily in April 2025"></td>
   </tr>
 
   <tr>
     <th colspan="5" align="center">May</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-5.png" width="100" title="Submit code daily in May 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-5.png" width="100" title="Submit code daily in May 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-5.png" width="100" title="Submit code daily in May 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-5.png" width="100" title="Submit code daily in May 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-05.gif" width="100" title="Submit code daily in May 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-05.png" width="100" title="Submit code daily in May 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-05.png" width="100" title="Submit code daily in May 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-05.png" width="100" title="Submit code daily in May 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-05.png" width="100" title="Submit code daily in May 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-05.png" width="100" title="Submit code daily in May 2025"></td>
   </tr>
 
   <tr>
     <th colspan="5" align="center">June</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-6.png" width="100" title="Submit code daily in June 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-6.png" width="100" title="Submit code daily in June 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-6.png" width="100" title="Submit code daily in June 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-6.png" width="100" title="Submit code daily in June 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-06.gif" width="100" title="Submit code daily in June 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-06.png" width="100" title="Submit code daily in June 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-06.png" width="100" title="Submit code daily in June 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-06.png" width="100" title="Submit code daily in June 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-06.png" width="100" title="Submit code daily in June 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-06.png" width="100" title="Submit code daily in June 2025"></td>
   </tr>
 
   <tr>
     <th colspan="5" align="center">July</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-7.png" width="100" title="Submit code daily in July 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-7.png" width="100" title="Submit code daily in July 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-7.png" width="100" title="Submit code daily in July 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-7.png" width="100" title="Submit code daily in July 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-07.gif" width="100" title="Submit code daily in July 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-07.png" width="100" title="Submit code daily in July 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-07.png" width="100" title="Submit code daily in July 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-07.png" width="100" title="Submit code daily in July 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-07.png" width="100" title="Submit code daily in July 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-07.png" width="100" title="Submit code daily in July 2025"></td>
   </tr>
 
   <tr>
     <th colspan="5" align="center">August</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-8.png" width="100" title="Submit code daily in August 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-8.png" width="100" title="Submit code daily in August 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-8.png" width="100" title="Submit code daily in August 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-8.png" width="100" title="Submit code daily in August 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-08.gif" width="100" title="Submit code daily in August 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-08.png" width="100" title="Submit code daily in August 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-08.png" width="100" title="Submit code daily in August 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-08.png" width="100" title="Submit code daily in August 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-08.png" width="100" title="Submit code daily in August 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-08.png" width="100" title="Submit code daily in August 2025"></td>
   </tr>
 
   <tr>
     <th colspan="5" align="center">September</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-9.png" width="100" title="Submit code daily in September 2021"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-9.png" width="100" title="Submit code daily in September 2022"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-9.png" width="100" title="Submit code daily in September 2023"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-9.png" width="100" title="Submit code daily in September 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-09.gif" width="100" title="Submit code daily in September 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2021/dcc-2021-09.png" width="100" title="Submit code daily in September 2021"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-09.png" width="100" title="Submit code daily in September 2022"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-09.png" width="100" title="Submit code daily in September 2023"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-09.png" width="100" title="Submit code daily in September 2024"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-09.png" width="100" title="Submit code daily in September 2025"></td>
   </tr>
 
   <tr>
@@ -188,7 +188,7 @@
     <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-10.png" width="100" title="Submit code daily in October 2022"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-10.png" width="100" title="Submit code daily in October 2023"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-10.png" width="100" title="Submit code daily in October 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-10.gif" width="100" title="Submit code daily in October 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-10.png" width="100" title="Submit code daily in October 2025"></td>
   </tr>
 
   <tr>
@@ -199,7 +199,7 @@
     <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-11.png" width="100" title="Submit code daily in November 2022"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-11.png" width="100" title="Submit code daily in November 2023"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-11.png" width="100" title="Submit code daily in November 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-11.gif" width="100" title="Submit code daily in November 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-11.png" width="100" title="Submit code daily in November 2025"></td>
   </tr>
   
   <tr>
@@ -210,7 +210,7 @@
     <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-12.png" width="100" title="Submit code daily in December 2022"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-12.png" width="100" title="Submit code daily in December 2023"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-12.png" width="100" title="Submit code daily in December 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-12.gif" width="100" title="Submit code daily in December 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-12.png" width="100" title="Submit code daily in December 2025"></td>
   </tr>
 </table>
 
@@ -220,7 +220,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://leetcode.com/studyplan/introduction-to-pandas/"><img src="Badges/Study-Plan-Medals/GIF/Introduction to Pandas.gif" width="100" title="Complete the 'Introduction to Pandas' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/introduction-to-pandas/"><img src="Badges/Study-Plan-Medals/GIF/Introduction to Pandas.png" width="100" title="Complete the 'Introduction to Pandas' study plan"></a></td>
     <td align="center"><a href="https://leetcode.com/studyplan/30-days-of-javascript/"><img src="Badges/Study-Plan-Medals/GIF/30 Days of JavaScript.gif" width="100" title="Complete '30 Days of JavaScript' study plan"></a></td>
     <td align="center"><a href="https://leetcode.com/studyplan/30-days-of-pandas/"><img src="Badges/Study-Plan-Medals/GIF/30 Days of Pandas.gif" width="100" title="Complete the '30 Days of Pandas' study plan"></a></td>
     <td align="center"><a href="https://leetcode.com/studyplan/top-sql-50/"><img src="Badges/Study-Plan-Medals/GIF/Top SQL 50.gif" width="100" title="Complete the 'Top SQL 50' study plan"></a></td>
