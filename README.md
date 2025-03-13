@@ -1,6 +1,6 @@
 # 🏆 LeetCode Badges 🏆
 
-### This repository aims to compile an exhaustive list of LeetCode.com badges.
+### This repository aims to compile an exhaustive list of LeetCode badges.
 
 ## Competition Medals
 
@@ -220,7 +220,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://leetcode.com/studyplan/introduction-to-pandas/"><img src="Badges/Study-Plan-Medals/GIF/Introduction to Pandas.png" width="100" title="Complete the 'Introduction to Pandas' study plan"></a></td>
+    <td align="center"><a href="https://leetcode.com/studyplan/introduction-to-pandas/"><img src="Badges/Study-Plan-Medals/GIF/Introduction to Pandas.gif" width="100" title="Complete the 'Introduction to Pandas' study plan"></a></td>
     <td align="center"><a href="https://leetcode.com/studyplan/30-days-of-javascript/"><img src="Badges/Study-Plan-Medals/GIF/30 Days of JavaScript.gif" width="100" title="Complete '30 Days of JavaScript' study plan"></a></td>
     <td align="center"><a href="https://leetcode.com/studyplan/30-days-of-pandas/"><img src="Badges/Study-Plan-Medals/GIF/30 Days of Pandas.gif" width="100" title="Complete the '30 Days of Pandas' study plan"></a></td>
     <td align="center"><a href="https://leetcode.com/studyplan/top-sql-50/"><img src="Badges/Study-Plan-Medals/GIF/Top SQL 50.gif" width="100" title="Complete the 'Top SQL 50' study plan"></a></td>
@@ -266,7 +266,7 @@
 
 </table>
 
-### Not Earnable
+### Removed
 
 <table>
   <tr>
