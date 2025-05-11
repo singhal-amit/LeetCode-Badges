@@ -1,6 +1,6 @@
 # 🏆 LeetCode Badges 🏆
 
-### This repository aims to compile an exhaustive list of LeetCode badges.
+### This repository is a well documented fork of [original repo](https://github.com/ChinemeremChigbo/LeetCode-Badges).
 
 ## Competition Medals
 
@@ -133,7 +133,7 @@
     <td align="center"><img src="Badges/Daily-Medals/PNG/2022/dcc-2022-05.png" width="100" title="Submit code daily in May 2022"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2023/dcc-2023-05.png" width="100" title="Submit code daily in May 2023"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2024/dcc-2024-05.png" width="100" title="Submit code daily in May 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/dcc-2025-05.png" width="100" title="Submit code daily in May 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-05.gif" width="100" title="Submit code daily in May 2025"></td>
   </tr>
 
   <tr>
