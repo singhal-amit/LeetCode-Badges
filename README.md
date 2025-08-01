@@ -177,7 +177,7 @@
     <td align="center"><img src="Badges/Daily-Medals/PNG/2022/2022-09.png" width="100" title="Submit code daily in September 2022"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2023/2023-09.png" width="100" title="Submit code daily in September 2023"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2024/2024-09.png" width="100" title="Submit code daily in September 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/2025-09.png" width="100" title="Submit code daily in September 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-09.gif" width="100" title="Submit code daily in September 2025"></td>
   </tr>
 
   <tr>
@@ -188,7 +188,7 @@
     <td align="center"><img src="Badges/Daily-Medals/PNG/2022/2022-10.png" width="100" title="Submit code daily in October 2022"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2023/2023-10.png" width="100" title="Submit code daily in October 2023"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2024/2024-10.png" width="100" title="Submit code daily in October 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/2025-10.png" width="100" title="Submit code daily in October 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-10.gif" width="100" title="Submit code daily in October 2025"></td>
   </tr>
 
   <tr>
@@ -199,7 +199,7 @@
     <td align="center"><img src="Badges/Daily-Medals/PNG/2022/2022-11.png" width="100" title="Submit code daily in November 2022"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2023/2023-11.png" width="100" title="Submit code daily in November 2023"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2024/2024-11.png" width="100" title="Submit code daily in November 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/2025-11.png" width="100" title="Submit code daily in November 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-11.gif" width="100" title="Submit code daily in November 2025"></td>
   </tr>
   
   <tr>
@@ -210,7 +210,7 @@
     <td align="center"><img src="Badges/Daily-Medals/PNG/2022/2022-12.png" width="100" title="Submit code daily in December 2022"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2023/2023-12.png" width="100" title="Submit code daily in December 2023"></td>
     <td align="center"><img src="Badges/Daily-Medals/PNG/2024/2024-12.png" width="100" title="Submit code daily in December 2024"></td>
-    <td align="center"><img src="Badges/Daily-Medals/PNG/2025/2025-12.png" width="100" title="Submit code daily in December 2025"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/2025/2025-12.gif" width="100" title="Submit code daily in December 2025"></td>
   </tr>
 </table>
 
