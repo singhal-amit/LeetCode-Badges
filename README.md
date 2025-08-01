@@ -4,7 +4,7 @@
 
 ## Competition Medals
 
-<div>
+<div align=center>
   
 | Guardian | Knight |
 |----------|--------|
@@ -14,7 +14,7 @@
 
 ## Submission Days
 
-<div>
+<div align=center>
 
 | 2000 Days Badge | 1000 Days Badge | 500 Days Badge | 365 Days Badge |
 |----------------|----------------|---------------|---------------|
@@ -24,7 +24,7 @@
 
 ## Annual Medals
 
-<table>
+<table align=center>
   <tr>
     <th>2021</th>
     <th>2022</th>
@@ -80,7 +80,7 @@
 
 ## Daily Medals
 
-<table>
+<table align=center>
   <tr>
     <th colspan="5" align="center">January</th>
   </tr>
@@ -218,7 +218,7 @@
 
 ### Earnable
 
-<table>
+<table align=center>
   <tr>
     <td align="center"><a href="https://leetcode.com/studyplan/introduction-to-pandas/"><img src="Badges/Study-Plan-Medals/GIF/Introduction to Pandas.gif" width="100" title="Complete the 'Introduction to Pandas' study plan"></a></td>
     <td align="center"><a href="https://leetcode.com/studyplan/30-days-of-javascript/"><img src="Badges/Study-Plan-Medals/GIF/30 Days of JavaScript.gif" width="100" title="Complete '30 Days of JavaScript' study plan"></a></td>
@@ -268,7 +268,7 @@
 
 ### Removed
 
-<table>
+<table align=center>
   <tr>
     <td align="center"><img src="Badges/Study-Plan-Medals/PNG/Binary Search I.png" width="100" title="Complete the 'Binary Search I' study plan"></td>
     <td align="center"><img src="Badges/Study-Plan-Medals/PNG/Binary Search II.png" width="100" title="Complete the 'Binary Search II' study plan"></td>
