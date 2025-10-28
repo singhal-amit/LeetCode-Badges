@@ -12,7 +12,7 @@
 <img src="https://custom-icon-badges.demolab.com/github/last-commit/singhal-amit/leetcode-badges?label=last%20commit&labelColor=302d41&color=ffefd5&logoColor=white&logo=git&style=for-the-badge"/>
 </div>
 
-<h3>Contest Medals
+<h3>Contest Medals</h3>
 
 <div align=center>
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<h3>Code Submission Medals
+<h3>Code Submission Medals</h3>
 
 <div align=center>
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<h3>Annual Medals
+<h3>Annual Medals</h3>
 
 <table align=center>
   <tr>
@@ -88,7 +88,7 @@
   </tr>
 </table>
 
-<h3>Monthly Medals
+<h3>Monthly Medals</h3>
 
 <table align=center>
  <tr>
@@ -98,7 +98,7 @@
     <th>2024</th>
     <th>2025</th>
   </tr>
-  
+
   <tr>
     <th colspan="5" align="center">January</th>
   </tr>
@@ -232,7 +232,8 @@
   </tr>
 </table>
 
-<h3>Study Plan Medals
+<h3>Study Plan Medals</h3>
+<hr/>
 
 ### Earnable
 
