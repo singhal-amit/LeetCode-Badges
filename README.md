@@ -1,5 +1,5 @@
-<p align="center"><img align="center" width="280" src="./assets/logo-dark.png#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./assets/logo-light.png#gh-light-mode-only"/></p>
+<p align="center"><img align="center" width="500" src="./assets/logo-dark.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="500" src="./assets/logo-light.png#gh-light-mode-only"/></p>
 <h3 align="center">An Exhaustive Compilation of all LeetCode Badges</h3>
 <br/>
 <div align="center">
