@@ -41,7 +41,6 @@
     <th>❌ 2023</th>
     <th>❌ 2024</th>
     <th>❌ 2025</th>
-    <th>✅ 2026</th>
   </tr>
 
   <tr>
@@ -53,7 +52,6 @@
     <td align="center"><img src="badges/annual/2023-annual.png" width="100" title="Submit code on 300+ distinct days in 2023"></td>
     <td align="center"><img src="badges/annual/2024-annual.png" width="100" title="Submit code on 300+ distinct days in 2024"></td>
     <td align="center"><img src="badges/annual/2025-annual.png" width="100" title="Submit code on 300+ distinct days in 2025"></td>
-    <td align="center"></td>
   </tr>
 
   <tr>
@@ -65,7 +63,6 @@
     <td align="center"><img src="badges/annual/2023-50-days.png" width="100" title="Submit code on 50+ distinct days in 2023"></td>
     <td align="center"><img src="badges/annual/2024-50-days.png" width="100" title="Submit code on 50+ distinct days in 2024"></td>
     <td align="center"><img src="badges/annual/2025-50-days.png" width="100" title="Submit code on 50+ distinct days in 2025"></td>
-    <td align="center"></td>
   </tr>
 
   <tr>
@@ -77,7 +74,6 @@
     <td align="center"><img src="badges/annual/2023-100-days.png" width="100" title="Submit code on 100+ distinct days in 2023"></td>
     <td align="center"><img src="badges/annual/2024-100-days.png" width="100" title="Submit code on 100+ distinct days in 2024"></td>
     <td align="center"><img src="badges/annual/2025-100-days.png" width="100" title="Submit code on 100+ distinct days in 2025"></td>
-    <td align="center"></td>
   </tr>
 
   <tr>
@@ -89,7 +85,6 @@
     <td align="center"></td>
     <td align="center"><img src="badges/annual/2024-200-days.png" width="100" title="Submit code on 200+ distinct days in 2024"></td>
     <td align="center"><img src="badges/annual/2025-200-days.png" width="100" title="Submit code on 200+ distinct days in 2025"></td>
-    <td align="center"></td>
   </tr>
 </table>
 
