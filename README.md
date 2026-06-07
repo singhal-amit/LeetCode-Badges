@@ -60,7 +60,7 @@
   <th colspan="6" align="center">50 Days Badge</th>
 </tr>
 <tr>
-  <td align="center"></td>
+  <td></td>
   <td align="center"><img src="badges/annual medals/2022/2022-50-days.png" width="100" title="Submit code on 50+ distinct days in 2022"></td>
   <td align="center"><img src="badges/annual medals/2023/2023-50-days.png" width="100" title="Submit code on 50+ distinct days in 2023"></td>
   <td align="center"><img src="badges/annual medals/2024/2024-50-days.png" width="100" title="Submit code on 50+ distinct days in 2024"></td>
@@ -72,7 +72,7 @@
   <th colspan="6" align="center">100 Days Badge</th>
 </tr>
 <tr>
-  <td align="center"></td>
+  <td></td>
   <td align="center"><img src="badges/annual medals/2022/2022-100-days.png" width="100" title="Submit code on 100+ distinct days in 2022"></td>
   <td align="center"><img src="badges/annual medals/2023/2023-100-days.png" width="100" title="Submit code on 100+ distinct days in 2023"></td>
   <td align="center"><img src="badges/annual medals/2024/2024-100-days.png" width="100" title="Submit code on 100+ distinct days in 2024"></td>
@@ -84,9 +84,9 @@
   <th colspan="6" align="center">200 Days Badge</th>
 </tr>
 <tr>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
+  <td></td>
+  <td></td>
+  <td></td>
   <td align="center"><img src="badges/annual medals/2024/2024-200-days.png" width="100" title="Submit code on 200+ distinct days in 2024"></td>
   <td align="center"><img src="badges/annual medals/2025/2025-200-days.png" width="100" title="Submit code on 200+ distinct days in 2025"></td>
   <td align="center"><img src="badges/annual medals/2026/2026-200-days.png" width="100" title="Submit code on 200+ distinct days in 2026"></td>
@@ -322,65 +322,73 @@
 <table align="center">
 
   <tr>
-    <th colspan="3" align="center">Algorithms</th>
+    <th colspan="4" align="center">Algorithms</th>
   </tr>
   <tr>
     <td align="center"><img src="badges/study plan medals/removed/Algorithm I.png" width="80" title="Complete the 'Algorithm I' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Algorithm II.png" width="80" title="Complete the 'Algorithm II' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Algorithm III.png" width="80" title="Complete the 'Algorithm III' study plan"></td>
+    <td></td>
   </tr>
 
   <tr>
-    <th colspan="3" align="center">Binary Search</th>
+    <th colspan="4" align="center">Binary Search</th>
   </tr>
   <tr>
     <td align="center"><img src="badges/study plan medals/removed/Binary Search I.png" width="80" title="Complete the 'Binary Search I' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Binary Search II.png" width="80" title="Complete the 'Binary Search II' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Binary Search III.png" width="80" title="Complete the 'Binary Search III' study plan"></td>
+    <td></td>
   </tr>
 
   <tr>
-    <th colspan="3" align="center">Data Structures</th>
+    <th colspan="4" align="center">Data Structures</th>
   </tr>
   <tr>
     <td align="center"><img src="badges/study plan medals/removed/DS_I.png" width="80" title="Complete the 'Data Structure I' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/DS_II.png" width="80" title="Complete the 'Data Structure II' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/DS_III.png" width="80" title="Complete the 'Data Structure III' study plan"></td>
+    <td></td>
   </tr>
 
   <tr>
-    <th colspan="3" align="center">SQL</th>
+    <th colspan="4" align="center">SQL</th>
   </tr>
   <tr>
     <td align="center"><img src="badges/study plan medals/removed/SQL I.png" width="80" title="Complete the 'SQL I' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/SQL II.png" width="80" title="Complete the 'SQL II' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/SQL III.png" width="80" title="Complete the 'SQL III' study plan"></td>
+    <td></td>
   </tr>
 
   <tr>
-    <th colspan="3" align="center">Programming Skills</th>
+    <th colspan="4" align="center">Programming Skills</th>
   </tr>
   <tr>
     <td align="center"><img src="badges/study plan medals/removed/Programming Skills I.png" width="80" title="Complete the 'Programming Skills I' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Programming Skills II.png" width="80" title="Complete the 'Programming Skills II' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Programming Skills III.png" width="80" title="Complete the 'Programming Skills III' study plan"></td>
+    <td></td>
   </tr>
 
   <tr>
-    <th colspan="3" align="center">Level</th>
+    <th colspan="4" align="center">Level</th>
   </tr>
   <tr>
     <td align="center"><img src="badges/study plan medals/removed/Level 1.png" width="80" title="Complete the 'Level 1' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Level 2.png" width="80" title="Complete the 'Level 2' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Level 3.png" width="80" title="Complete the 'Level 3' study plan"></td>
+    <td></td>
   </tr>
 
   <tr>
-    <th colspan="2" align="center">Graph Theory</th>
+    <th colspan="4" align="center">Graph Theory</th>
   </tr>
   <tr>
     <td align="center"><img src="badges/study plan medals/removed/Graph Theory I.png" width="80" title="Complete the 'Graph Theory I' study plan"></td>
     <td align="center"><img src="badges/study plan medals/removed/Graph Theory II.png" width="80" title="Complete the 'Graph Theory II' study plan"></td>
+    <td></td>
+    <td></td>
   </tr>
 
   <tr>
