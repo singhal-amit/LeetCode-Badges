@@ -7,6 +7,8 @@
 <img src="https://custom-icon-badges.demolab.com/github/issues/singhal-amit/leetcode-badges?label=Issues&labelColor=302d41&color=90ee90&logoColor=white&logo=issue&style=for-the-badge"  />
 <img src="https://custom-icon-badges.demolab.com/github/issues-pr/singhal-amit/leetcode-badges?&label=Pull%20requests&labelColor=302d41&color=FF90E8&logoColor=white&logo=git-pull-request&style=for-the-badge"  />
 <img src="https://custom-icon-badges.demolab.com/github/forks/singhal-amit/leetcode-badges?&label=forks&labelColor=302d41&color=ffa07a&logoColor=white&logo=fork&style=for-the-badge"  />
+</div>
+<div align="center">
 <img src="https://custom-icon-badges.demolab.com/github/contributors/singhal-amit/leetcode-badges?label=Contributors&labelColor=302d41&color=e6e6fa&logoColor=white&logo=people&style=for-the-badge"/>
 <img src="https://custom-icon-badges.demolab.com/github/license/singhal-amit/leetcode-badges?label=LICENSE&labelColor=302d41&color=F1BF7A&logoColor=white&logo=giphy&style=for-the-badge"/>
 <img src="https://custom-icon-badges.demolab.com/github/last-commit/singhal-amit/leetcode-badges?label=last%20commit&labelColor=302d41&color=ffefd5&logoColor=white&logo=git&style=for-the-badge"/>
@@ -34,7 +36,7 @@
 
 ## Annual Medals
 
-<table>
+<table align="center">
 <tr>
   <th>❌ 2021</th>
   <th>❌ 2022</th>
@@ -95,7 +97,7 @@
 
 ## Daily Medals
 
-<table>
+<table align="center">
 
   <tr>
     <th>❌ 2020</th>
@@ -269,7 +271,7 @@
 
 ### Earnable
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://leetcode.com/studyplan/introduction-to-pandas/"><img src="badges/study plan medals/earnable/Introduction to Pandas.gif" width="80" title="Complete the 'Introduction to Pandas' study plan"></a></td>
     <td align="center"><a href="https://leetcode.com/studyplan/30-days-of-javascript/"><img src="badges/study plan medals/earnable/30 Days of JavaScript.gif" width="80" title="Complete '30 Days of JavaScript' study plan"></a></td>
@@ -319,7 +321,7 @@
 
 ### Removed
 
-<table>
+<table align="center">
 
   <!-- Data Structures + Algorithms -->
   <tr>
@@ -330,7 +332,6 @@
     <td align="center"><img src="badges/study plan medals/removed/DS_I.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/DS_II.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/DS_III.png" width="80"></td>
-
     <td align="center"><img src="badges/study plan medals/removed/Algorithm I.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Algorithm II.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Algorithm III.png" width="80"></td>
@@ -345,7 +346,6 @@
     <td align="center"><img src="badges/study plan medals/removed/SQL I.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/SQL II.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/SQL III.png" width="80"></td>
-
     <td align="center"><img src="badges/study plan medals/removed/Binary Search I.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Binary Search II.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Binary Search III.png" width="80"></td>
@@ -360,7 +360,6 @@
     <td align="center"><img src="badges/study plan medals/removed/Level 1.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Level 2.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Level 3.png" width="80"></td>
-
     <td align="center"><img src="badges/study plan medals/removed/Programming Skills I.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Programming Skills II.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Programming Skills III.png" width="80"></td>
@@ -374,7 +373,6 @@
   <tr>
     <td align="center"><img src="badges/study plan medals/removed/Graph Theory I.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/Graph Theory II.png" width="80"></td>
-
     <td align="center"><img src="badges/study plan medals/removed/DP_I.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/DP_II.png" width="80"></td>
     <td align="center"><img src="badges/study plan medals/removed/DP_III.png" width="80"></td>
