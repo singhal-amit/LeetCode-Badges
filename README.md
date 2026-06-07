@@ -1,17 +1,39 @@
 <p align="center"><img align="center" width="500" src="./assets/logo-dark.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="500" src="./assets/logo-light.png#gh-light-mode-only"/></p>
 <h3 align="center">An Exhaustive Compilation of all LeetCode Badges</h3>
+
 <br/>
+
 <div align="center">
-<img src="https://custom-icon-badges.demolab.com/github/stars/singhal-amit/leetcode-badges?label=Stars&labelColor=302d41&color=ECD53F&logoColor=white&logo=star&style=for-the-badge"  />
-<img src="https://custom-icon-badges.demolab.com/github/issues/singhal-amit/leetcode-badges?label=Issues&labelColor=302d41&color=90ee90&logoColor=white&logo=issue&style=for-the-badge"  />
-<img src="https://custom-icon-badges.demolab.com/github/issues-pr/singhal-amit/leetcode-badges?&label=Pull%20requests&labelColor=302d41&color=FF90E8&logoColor=white&logo=git-pull-request&style=for-the-badge"  />
-<img src="https://custom-icon-badges.demolab.com/github/forks/singhal-amit/leetcode-badges?&label=forks&labelColor=302d41&color=ffa07a&logoColor=white&logo=fork&style=for-the-badge"  />
+  <a href="https://github.com/singhal-amit/leetcode-badges/stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/singhal-amit/leetcode-badges?label=Stars&labelColor=302d41&color=ECD53F&logoColor=white&logo=star&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/singhal-amit/leetcode-badges/issues">
+    <img src="https://custom-icon-badges.demolab.com/github/issues/singhal-amit/leetcode-badges?label=Issues&labelColor=302d41&color=90ee90&logoColor=white&logo=issue&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/singhal-amit/leetcode-badges/pulls">
+    <img src="https://custom-icon-badges.demolab.com/github/issues-pr/singhal-amit/leetcode-badges?&label=Pull%20requests&labelColor=302d41&color=FF90E8&logoColor=white&logo=git-pull-request&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/singhal-amit/leetcode-badges/network/members">
+    <img src="https://custom-icon-badges.demolab.com/github/forks/singhal-amit/leetcode-badges?&label=Forks&labelColor=302d41&color=ffa07a&logoColor=white&logo=fork&style=for-the-badge" />
+  </a>
 </div>
+
 <div align="center">
-<img src="https://custom-icon-badges.demolab.com/github/contributors/singhal-amit/leetcode-badges?label=Contributors&labelColor=302d41&color=e6e6fa&logoColor=white&logo=people&style=for-the-badge"/>
-<img src="https://custom-icon-badges.demolab.com/github/license/singhal-amit/leetcode-badges?label=LICENSE&labelColor=302d41&color=F1BF7A&logoColor=white&logo=giphy&style=for-the-badge"/>
-<img src="https://custom-icon-badges.demolab.com/github/last-commit/singhal-amit/leetcode-badges?label=last%20commit&labelColor=302d41&color=ffefd5&logoColor=white&logo=git&style=for-the-badge"/>
+  <a href="https://github.com/singhal-amit/leetcode-badges/graphs/contributors">
+    <img src="https://custom-icon-badges.demolab.com/github/contributors/singhal-amit/leetcode-badges?label=Contributors&labelColor=302d41&color=e6e6fa&logoColor=white&logo=people&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/singhal-amit/leetcode-badges/blob/main/LICENSE">
+    <img src="https://custom-icon-badges.demolab.com/github/license/singhal-amit/leetcode-badges?label=LICENSE&labelColor=302d41&color=F1BF7A&logoColor=white&logo=giphy&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/singhal-amit/leetcode-badges/commits/main">
+    <img src="https://custom-icon-badges.demolab.com/github/last-commit/singhal-amit/leetcode-badges?label=Last%20Commit&labelColor=302d41&color=ffefd5&logoColor=white&logo=git&style=for-the-badge" />
+  </a>
 </div>
 
 ## Contest Medals
